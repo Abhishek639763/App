@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which keyword is used to inherit a class in Java?",
+      "correct_answer": "extends",
+      "incorrect_answers": [
+        "implements",
+        "inherits",
+        "instanceof"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which method is the entry point for a Java program?",
+      "correct_answer": "main",
+      "incorrect_answers": [
+        "start",
+        "run",
+        "execute"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which collection class allows null keys in Java?",
+      "correct_answer": "HashMap",
+      "incorrect_answers": [
+        "TreeMap",
+        "Hashtable",
+        "ConcurrentHashMap"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the default value of an int variable in Java?",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "null",
+        "undefined",
+        "1"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which keyword is used to prevent method overriding?",
+      "correct_answer": "final",
+      "incorrect_answers": [
+        "static",
+        "const",
+        "override"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which package contains the Scanner class?",
+      "correct_answer": "java.util",
+      "incorrect_answers": [
+        "java.io",
+        "java.lang",
+        "java.text"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which loop is guaranteed to execute at least once?",
+      "correct_answer": "do-while",
+      "incorrect_answers": [
+        "while",
+        "for",
+        "enhanced for"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which interface must be implemented to create a thread in Java?",
+      "correct_answer": "Runnable",
+      "incorrect_answers": [
+        "Callable",
+        "Threadable",
+        "Executor"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which method is called by the garbage collector before destroying an object?",
+      "correct_answer": "finalize()",
+      "incorrect_answers": [
+        "dispose()",
+        "destroy()",
+        "clean()"
+      ]
+    },
+    {
+      "category": "Java Programming",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which operator is used for object reference comparison?",
+      "correct_answer": "==",
+      "incorrect_answers": [
+        "equals()",
+        "!=",
+        "compareTo()"
+      ]
+    }
+  ]
+}
